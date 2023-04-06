@@ -1,0 +1,16 @@
+---
+layout: post
+title: Napoli
+date: 2023-04-04 17:33:28 +0100
+img: 18.jpg
+tags: Napoli
+---
+La Società Sportiva Calcio Napoli, meglio nota come Napoli, è una società calcistica italiana con sede nella città di Napoli. Milita in Serie A, la massima serie del campionato italiano.
+
+Il club venne fondato de facto nel 1926 come Associazione Calcio Napoli, in seguito al cambio di statuto e di denominazione del Foot-Ball Club Internazionale-Naples, a sua volta costituitosi nel 1922. Assunse poi la denominazione di SSC Napoli nel 1964 e, dopo il fallimento della società nel 2004, il presidente Aurelio De Laurentiis fondò la Napoli Soccer che ne rilevò il titolo sportivo e fu iscritta alla Serie C1, adottando la denominazione vigente con la promozione in Serie B nel 2006.
+
+Il colore sociale è l'azzurro, mentre la mascotte è il Ciuccio, originariamente un cavallo inalberato. Gioca le partite interne allo stadio Diego Armando Maradona, inaugurato nel 1959.
+
+Con un palmarès che comprende due scudetti (1986-1987, 1989-1990), sei Coppe Italia (1961-1962, 1975-1976, 1986-1987, 2011-2012, 2013-2014 e 2019-2020), due Supercoppe italiane (1990 e 2014) e una Coppa UEFA (1988-1989), oltre a una Coppa delle Alpi (1966) e una Coppa di Lega Italo-Inglese (1976), il Napoli è la squadra del Meridione più titolata a livello nazionale e internazionale, nonché, con 81 partecipazioni, quella più presente nei campionati di massima serie.
+
+Il Napoli è anche uno dei membri associati dell'ECA (Associazione dei Club Europei), organizzazione nata in sostituzione del soppresso G-14 e costituita dai principali club calcistici del continente, riuniti in consorzio al fine di ottenere una tutela comune dei diritti sportivi, legali e televisivi di fronte alla FIFA. 

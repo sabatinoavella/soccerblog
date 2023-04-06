@@ -1,0 +1,66 @@
+# Site settings
+title: SoccerBlog
+description: Blog sul calcio
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://sabatinoavella.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Banner Section
+hero: 112.jpg
+hero-title: Benvenuti nel mio SoccerBlog!
+hero-description: Un blog che parla soprattutto, anzi solo di calcio.
+
+# Author - Creator
+author-name: Sabatino Avella
+author-image: 10.jpg
+about-author: Mi chiamo Sabatino Avella. Sono uno studente con grandi aspirazioni...
+author-email: help.example@gmail.com
+author-twitter: https://twitter.com/
+author-facebook: https://twitter.com/
+author-instagram: https://www.instagram.com/
+author-pinterest: https://pinterest.com/
+
+# Social Media Links (Links are located in hero and footer)
+twitter: https://twitter.com/
+facebook: https://facebook.com/
+google-plus: https://plus.google.com/
+instagram: https://www.instagram.com/
+pinterest: https://pinterest.com/
+youtube: https://www.youtube.com/
+
+# Contact Form Settings
+contact-subtitle: Contattami se vuoi saperne di più sul mondo del calcio. # Title for the subscription form.
+
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
+# Newsletter
+mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+
+# Comment Section (Disqus)
+disqus-identifier: soccer # Add your shortname for Disqus Comment. For example mr-brown
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 9
+paginate_path: "/page/:num"
+
+# Pages path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+
+include:
+  - _pages
+
+# Exclude from processing.
+exclude:
+ - Gemfile
+ - Gemfile.lock
+ - vendor
