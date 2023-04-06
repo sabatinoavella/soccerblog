@@ -1,8 +1,8 @@
 # Site settings
 title: SoccerBlog
 description: Blog sul calcio
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://sabatinoavella.github.io/soccerblog/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/soccerblog" # the subpath of your site, e.g. /blog
+url: "https://sabatinoavella.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner Section
 hero: 112.jpg
